@@ -1,5 +1,3 @@
-- 👋 Hi, I’m PRERIT
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Back-End Development
-- 💞️ I’m looking to collaborate on Projects
-- 📫 Reach me through email --> kotakprerit7@gmail.com
+A Random Developer Tryin' to do Awesome things... 👩‍💻
+
+Available to work on projects. 💻
