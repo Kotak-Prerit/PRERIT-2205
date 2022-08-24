@@ -1,3 +1,7 @@
-A Random Developer Tryin' to do Awesome things... 👩‍💻
+A Random Front-End Developer Tryin' to develop Awesome things... 👩‍💻
 
-Available to work on projects. 💻
+Looking forward to work on live projects. 💻
+
+My folks love my work. Hope you'll love it too 👾
+
+I love to contribute on open source 🐱
